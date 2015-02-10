@@ -35,9 +35,14 @@ H υλοποίηση της εφαρμογής μπορεί να γίνει σε
 ###3. Προτείνετε το δικό σας ubiquitous project
 
 Σε αυτή τη περίπτωση μπορείτε να πάρετε ιδέες από παλαιότερα projects που έκαναν φοιτητές στο μάθημα:
+
 [Twitter controller](https://www.dropbox.com/s/v03t9z47rdizfw9/Twitter%20controller.pdf?dl=0)
+
 [Ubiquitous tweet posting](https://www.dropbox.com/s/p63vk4kggnv3q2f/Ubiquitous%20tweet%20posting.pdf?dl=0)
+
 [Strobbio - Sending data from smartphone to Arduino](http://ptrgast.bitbucket.org/strobbio/)
+
 [Multi-touch library for large screens](https://www.dropbox.com/s/y4cy4eqlbrg90s0/MostTouchesEver.pdf?dl=0)
+
 
 Η επίβλεψη των εργασίων θα γίνει τόσο από τον διδάσκοντα όσο και από τους βοηθούς του μαθήματος. 
