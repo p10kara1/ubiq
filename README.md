@@ -44,5 +44,14 @@ H υλοποίηση της εφαρμογής μπορεί να γίνει σε
 
 [Multi-touch library for large screens](https://www.dropbox.com/s/y4cy4eqlbrg90s0/MostTouchesEver.pdf?dl=0)
 
-
 Η επίβλεψη των εργασίων θα γίνει τόσο από τον διδάσκοντα όσο και από τους βοηθούς του μαθήματος. 
+
+**Σχετικές σελίδες για την την διδακτική και την ανάπτυξη έργων λογισμικού:**
+
+[How to Use Git and GitHub](https://www.udacity.com/course/ud775)
+
+[Teaching Real-World Programming](http://cacm.acm.org/magazines/2013/8/166303-teaching-programming-the-way-it-works-outside-the-classroom/abstract)
+
+[Teaching Programming To A Highly Motivated Beginner](http://cacm.acm.org/blogs/blog-cacm/156836-teaching-programming-to-a-highly-motivated-beginner/fulltext)
+
+[A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/)
