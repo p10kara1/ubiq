@@ -8,3 +8,5 @@ such as BBC , CNN and others.The flow of information will be represented by dire
 colorized according the timestamp of the retweet.It should be noted the there will be an noticeable correlation between the 
 users doing the retweets and the followers of the news corporation by which the tweet was posted, that feature will add an extra
 functionality to the visualization , namely the geographical representation of the active followers the posting corporation has.
+
+<h3>My repository:<h3>https://github.com/maliaris7/news-spread-based-twittter-visualization.git
