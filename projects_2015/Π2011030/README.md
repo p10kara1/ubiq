@@ -43,6 +43,6 @@ To frontend της εφαρφμογής δημιουργεί τον χάρτη �
 
 ![Screenshot-2-Mobile](https://raw.githubusercontent.com/courses-ionio/ubiq/master/projects_2015/Π2011030/img/iOS%20Simulator%20Screen%20Shot%202015%20-%2019.28.06.png)
 
-![Screenshot-3-Mobile](https://github.com/courses-ionio/sw/blob/master/projects_2015/Π2011030/img/Screen%20Shot%202015-05-31%20at%2000.48.29.png)
+![Screenshot-3-Mobile]https://raw.githubusercontent.com/courses-ionio/ubiq/master/projects_2015/Π2011030/img/iOS%20Simulator%20Screen%20Shot%202015%20-%2019.28.14.png)
 
 ![Screenshot-4-Mobile](https://raw.githubusercontent.com/courses-ionio/ubiq/master/projects_2015/Π2011030/img/iOS%20Simulator%20Screen%20Shot%202015%20-%2019.28.26.png)
